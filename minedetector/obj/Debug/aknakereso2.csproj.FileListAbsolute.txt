@@ -1,0 +1,9 @@
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\bin\Debug\aknakereso2.exe.config
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\bin\Debug\aknakereso2.exe
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\bin\Debug\aknakereso2.pdb
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.csprojAssemblyReference.cache
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.Properties.Resources.resources
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.csproj.GenerateResource.cache
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.csproj.CoreCompileInputs.cache
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.exe
+D:\Games\BCE-GTK\C#\aknakereso2\aknakereso2\obj\Debug\aknakereso2.pdb
