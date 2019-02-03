@@ -1,0 +1,10 @@
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.csprojAssemblyReference.cache
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.Properties.Resources.resources
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.csproj.GenerateResource.cache
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.csproj.CoreCompileInputs.cache
+D:\Games\BCE-GTK\C#\kigyo\kigyo\bin\Debug\kigyo.exe.config
+D:\Games\BCE-GTK\C#\kigyo\kigyo\bin\Debug\kigyo.exe
+D:\Games\BCE-GTK\C#\kigyo\kigyo\bin\Debug\kigyo.pdb
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.exe
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\kigyo.pdb
+D:\Games\BCE-GTK\C#\kigyo\kigyo\obj\Debug\snake.Form1.resources
